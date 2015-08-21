@@ -7,7 +7,7 @@ A lita plugin for tracking Elo ranking of ping-pong players.
 Add lita-pong to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-pong", :git => "https://github.com/kcrayon/lita-pong.git"
+gem "lita-pong", :git => "https://github.com/Heyzap/lita-pong.git"
 ```
 
 ## Configuration
